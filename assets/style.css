@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+header{
+    height: 15vh;
+}
+
+header img{
+    height: 60%;
+    padding: 10px;
+}
+
+header p{
+    background-color: #fdfbf1;
+    font-size: 0.8em;
+    padding: 15px;
+    margin: 0;
+    color: #004d4c;
+    border-top: 2.5px solid #ffdb83;
+}
+
+header span{
+    font-weight: 700;
+}
+
+h1{
+    font-size: 2.5em;
+}
+
+main{
+    height: 100vh;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+main div{
+    text-align: left;
+    font-size: 1em;
+    padding-bottom: 1px;
+}
+
+main video{
+    border-radius: 2%;
+    box-shadow: 5px 3px 7px -2px rgba(0,0,0,0.61);
+}
+
+h4{
+    text-align: center;
+    color: rgb(164, 162, 162);
+}
+
+.featured{
+    color: brown;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+
+main a{
+    color: darkcyan;
+}
+
+.main-feat{
+    padding-left: 15px;
+    border-left: 1.5px solid #ffdb83;
+}
+
+h2{
+    margin-top: 10vh;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(4, 220, 220);
+}
+
+.step-by-step p{
+    font-weight: 700;
+    font-size: 1.1em;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+ul{
+    margin-top: 10px;
+}
+
+li{
+    padding: 6px;
+    font-size: 1.1em;
+}
+
+.method{
+    padding-left: 45px
+}
+
+.method p{
+    font-weight: 400;
+    font-size: 1.1em;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+ol{
+    font-weight: 700;
+}
